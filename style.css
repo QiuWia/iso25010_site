@@ -97,3 +97,17 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.foto {
+    width: 150px;  /* Ajuste o tamanho da imagem conforme necessário */
+    height: 150px;  /* Deve ser igual à largura para ficar redonda */
+    border-radius: 50%;  /* Faz a borda ficar redonda */
+    object-fit: cover;  /* Faz com que a imagem preencha o espaço sem distorcer */
+    margin-top: 20px;  /* Espaço acima da foto */
+    display: block;  /* Garante que a imagem seja exibida como bloco */
+    margin-left: auto;
+    margin-right: auto;  /* Centraliza a imagem */
+}
+
+
+
