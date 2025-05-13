@@ -104,7 +104,7 @@ body {
     border-radius: 50%;  /* Faz a borda ficar redonda */
     object-fit: cover;  /* Faz com que a imagem preencha o espaço sem distorcer */
     margin-top: 20px;  /* Espaço acima da foto */
-    display: block;  /* Garante que a imagem seja exibida como bloco */
+    display: block;  
     margin-left: auto;
     margin-right: auto;  /* Centraliza a imagem */
 }
